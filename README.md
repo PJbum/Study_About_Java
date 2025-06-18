@@ -1,10 +1,10 @@
 # Java 기록지
 ---
-## CouontDown_Test
+## 카운트다운 프로그램(CouontDown_Test)
 + CountDown.java
 + CountDownTest.java
 ---
-## Listener_Button_Test
+## 리스너 버튼작동 프로그램(Listener_Button_Test)
 + MyListener.java
 + ButtonClick.java
 ---
